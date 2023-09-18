@@ -1,2 +1,6 @@
 # OCTANET_SEPTEMBER
-Food plaza Landing page  
+Task 1:
+Food plaza Landing page  .
+
+Task 2:
+To do List .
